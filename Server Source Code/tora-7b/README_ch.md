@@ -1,0 +1,18 @@
+# Tora-7B模型下载教程
+- 下载链接：<https://huggingface.co/llm-agents/tora-7b-v1.0>
+- 下载过程：
+  - 点击链接打开
+  - 点击Files and versions
+  - 下载目录下的所有文件：(文件列表如下)
+    - .gitattributes
+    - README.md
+    - added_tokens.json
+    - config.json
+    - generation_config.json
+    - pytorch_model-00001-of-00002.bin
+    - pytorch_model-00002-of-00002.bin
+    - pytorch_model.bin.index.json
+    - special_tokens_map.json
+    - tokenizer.model
+    - tokenizer_config.json
+  - 下载后将所有文件放入当前README.md文件夹目录下，无需解压等多余操作

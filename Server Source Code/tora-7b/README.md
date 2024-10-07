@@ -1,0 +1,18 @@
+# Tora-7B Model Download Guide
+- **Download link:** <https://huggingface.co/llm-agents/tora-7b-v1.0>
+- **Download steps:**
+  - Click the link to open the page.
+  - Click on "Files and versions."
+  - Download all files in the directory (file list below):
+    - .gitattributes
+    - README.md
+    - added_tokens.json
+    - config.json
+    - generation_config.json
+    - pytorch_model-00001-of-00002.bin
+    - pytorch_model-00002-of-00002.bin
+    - pytorch_model.bin.index.json
+    - special_tokens_map.json
+    - tokenizer.model
+    - tokenizer_config.json
+  - After downloading, place all files in the directory where the current README.md file is located. No extraction or additional steps are needed.

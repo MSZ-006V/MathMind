@@ -5,6 +5,7 @@ This project was developed as an undergraduate software design. By combining lar
 
 The project consists of server-side source code and client-side source code (Android), which will be gradually made available for learning and reference in the future.
 
+Demo video: https://youtube.com/shorts/E38za20EvKg?si=j37rm3P5f3aXDdQE
 - **Check List:**
     - Upload server-side source code
     - Upload client-side source code
